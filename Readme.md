@@ -1,1 +1,2 @@
-A Streamlit web application to convert a coloured image to black and white image.
+A Streamlit web application to convert a coloured image to black and white image. <br/>
+Live link of the web app: https://webintellectual-coloured-image-to-b-w-converter-web-main-o6i3i7.streamlitapp.com/
