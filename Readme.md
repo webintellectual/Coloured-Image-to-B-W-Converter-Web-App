@@ -1,0 +1,1 @@
+A Streamlit web application to convert a coloured image to black and white image.
